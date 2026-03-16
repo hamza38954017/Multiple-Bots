@@ -6,9 +6,8 @@ from flask import Flask
 
 # Paste your bot tokens here in this format
 TOKENS = [
-    "YOUR_FIRST_BOT_TOKEN_HERE",
-    "YOUR_SECOND_BOT_TOKEN_HERE",
-    "YOUR_THIRD_BOT_TOKEN_HERE"
+    "8668483286:AAHbbNqjWZM7pXQ4MB6auE07EkVobrx6X44",
+    "8716277413:AAGbu2U6eI4aR1vIYNKBncNlIZSMtbQUzJo"
 ]
 
 def create_and_run_bot(token):
