@@ -7,7 +7,7 @@ from flask import Flask
 
 # Paste your bot tokens here
 TOKENS = [
-    "8668483286:AAHbbNqjWZM7pXQ4MB6auE07EkVobrx6X44",
+    "8668483286:AAHys6jHBSfz-2FrvEKRauB0SLGoSCxzdYA",
     "8716277413:AAGbu2U6eI4aR1vIYNKBncNlIZSMtbQUzJo"
 ]
 
