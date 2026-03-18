@@ -6,7 +6,7 @@ import os
 from flask import Flask
 
 # Paste your single bot token here
-TOKEN = "8668483286:AAHys6jHBSfz-2FrvEKRauB0SLGoSCxzdYA"
+TOKEN = "8668483286:AAE35Mx39sj_qr6JPssjLT5MiE7dfgT2Q3A"
 
 # Put your Mini App URL here (Must start with https://)
 MINI_APP_URL = "https://locationdata.onrender.com" 
