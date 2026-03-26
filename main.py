@@ -9,7 +9,7 @@ from flask import Flask
 TOKEN = "8668483286:AAE35Mx39sj_qr6JPssjLT5MiE7dfgT2Q3A"
 
 # Put your Mini App URL here (Must start with https://)
-MINI_APP_URL = "https://locationdata.onrender.com" 
+MINI_APP_URL = "https://telegrambackup.onrender.com" 
 
 # Initialize the single bot
 bot = telebot.TeleBot(TOKEN)
