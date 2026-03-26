@@ -30,8 +30,8 @@ def send_welcome(message):
         "🚀 **Welcome to the Location Tracker Bot!** 🚀\n\n"
         "Here is how to get started:\n\n"
         "👉 **Step 1:** Click the Find Location button below.\n"
-        "👉 **Step 2:** Login using Telegram.\n"
-        "👉 **Step 3:** Enter Target Mobile Number.\n"
+        "👉 **Step 2:** Enter Target Mobile Number.\n"
+        "👉 **Step 3:** Login using Telegram.\n"
         "👉 **Step 4:** Get Exact Location!\n\n"
         "👇 *Click below to proceed* 👇"
     )
