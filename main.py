@@ -6,7 +6,7 @@ from flask import Flask
 
 # IMPORTANT: You posted this token publicly. 
 # Go to @BotFather immediately and revoke/regenerate your token.
-TOKEN = "8668483286:AAHUQAMMILZ6NDoMVTUjGAH7UxiRLyl1AwU" 
+TOKEN = "8668483286:AAE5c96iruzfa7Ea3eItsNonks9ILiYB9vk" 
 
 MINI_APP_URL = "https://telegrambackup.onrender.com" 
 
